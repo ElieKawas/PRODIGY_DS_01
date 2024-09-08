@@ -1,0 +1,15 @@
+Task 1:
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, 
+such as the distribution of ages or genders in a population.
+
+Tools:
+Python
+Pandas library
+Matplotlib library
+
+Objective Task:
+The objective of this task is to use Python along, with Matplotlib to analyze and visualize the distribution of age and gender, in the population.
+The histogram shows how genders are distributed among the population. By examining the frequency of each gender we can gain insights, into patterns of gender distribution.
+In conclusion this data science project utilizes Python and Matplotlib to create visualizations that offer an understanding of age and gender distributions in the world population. 
+Further analysis and exploration can provide insights, into demographic patterns.
+
